@@ -20,8 +20,31 @@ hackergarten
 
 * Building a Java Based User Interface (Swing / Eclipse plugin / Griffon / JavaFX ) for the [AeroGear Simple Push Java Client](https://github.com/aerogear/aerogear-simplepush-java-client)
 
+# Cordova's crash course
+
+Installing the CLI : https://github.com/apache/cordova-cli/blob/master/README.md
+
+
+Create a new app : 
+```
+cordova create hackengartenApp
+cd hackengartenApp
+cordova platform add android
+```
+
+Add Push Plugin : 
+```
+cordova plugin add https://github.com/aerogear/aerogear-pushplugin-cordova.git
+```
+Build and deploy : 
+```
+cordova build android
+cordova run android
+```
+
 # Resources
 
+* UnfifiedPush Instance for the Hackergarten : https://hackergartenups-sblanc.rhcloud.com
 * http://aerogear.org/
 * http://cordova.apache.org/
 * https://www.openshift.com/
