@@ -16,7 +16,7 @@ hackergarten
 
 * Write a Vert.x Mod that wraps the [Unified Push Java Client](https://github.com/aerogear/aerogear-unifiedpush-java-client) : The idea is to be able to integrate easily a Vertx app with the UnifiedPush Server. This mod could wrap the Java Library and use Vertx's Event Bus to stay language agnostic. 
 
-* Write a demo app that shows AeroGear's [iOS OAuth2 adapter](https://github.com/aerogear/aerogear-ios/) working with [Keycloak](http://www.jboss.org/keycloak)
+* Write a demo app that shows AeroGear's [iOS OAuth2 adapter](https://github.com/aerogear/aerogear-ios/) working with [Keycloak](http://www.jboss.org/keycloak). More detailled instruction can be found in [AeroGearAndKeyCloak](AeroGearAndKeyCloak)
 
 * Building a Java Based User Interface (Swing / Eclipse plugin / Griffon / JavaFX ) for the [AeroGear Simple Push Java Client](https://github.com/aerogear/aerogear-simplepush-java-client)
 
