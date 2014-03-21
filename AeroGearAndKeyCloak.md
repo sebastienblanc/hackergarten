@@ -1,4 +1,3 @@
-
 ### Task1: Java lovers - Get RESTful endpoint with KeyCloak 
 
 #### Pre-requisites
@@ -10,9 +9,7 @@
 #### TODOs
 
 * Get inspired by our [Team endpoind](https://github.com/aerogear/aerogear-integration-tests-server/blob/master/src/main/java/org/jboss/aerogear/integration/service/TeamService.java) and [ProductServices](https://github.com/keycloak/keycloak/blob/master/examples/demo-template/database-service/src/main/java/org/keycloak/example/oauth/ProductService.java) example in Keycloak
-
 * Create your own endpoint in [aerogear-integration-tests-server](https://github.com/aerogear/aerogear-integration-tests-server) repo. 
-
 * Configure it to work with Keycloak, some [web JSON configuration neeed](https://github.com/keycloak/keycloak/blob/master/examples/demo-template/database-service/src/main/webapp/WEB-INF/keycloak.json)
 
 ### Task2: iOS <3 - iOS cookbook app
